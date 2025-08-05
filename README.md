@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kallasrikanth1999" alt="kallasrikanth1999" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and Deep learning projects**
-
-- 🌱 I’m currently learning **Flask**
+- 🔭 I’m currently working as **Machine learning Engineer**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
